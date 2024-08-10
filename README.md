@@ -1,4 +1,4 @@
-# Calculadora Interativa
+# Calculadora Interativa 🖩
 Este projeto é uma calculadora interativa desenvolvida com **HTML**, **CSS** e **JavaScript**. O objetivo é fornecer uma interface simples e funcional para realizar operações matemáticas básicas, com uma experiência de usuário agradável e responsiva.
 
 # Funcionalidades
